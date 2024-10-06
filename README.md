@@ -1,6 +1,6 @@
 # synchrony in brain regions
 This repository contains MATLAB scripts and preprocessed fMRI data employed to create figures and reach conclusions in the following paper:
-https://www.biorxiv.org/content/10.1101/2020.04.17.047233v5.full
+Metabolism Modulates Network Synchrony in the Aging Brain (https://www.pnas.org/doi/full/10.1073/pnas.2025727118).
 
 ---
 Directory names within `fmri_data/` and `scripts/` correspond to the respective dataset. See `readme.txt` within `fmri_data/` for more information on the respective dataset. 
